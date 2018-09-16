@@ -1,3 +1,5 @@
+#Diary App
+
 Diary App created with Python using the Peewee ORM (Object Relational Mapping).
 
 Project was created to demonstrate working with databases in Python.
